@@ -10,7 +10,7 @@ namespace console2Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("master2");
+            Console.WriteLine("abc");
         }
     }
 }
